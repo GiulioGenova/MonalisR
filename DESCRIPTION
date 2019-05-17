@@ -29,4 +29,6 @@ Imports:
     gridExtra,
     leaflet,
     geojsonio,
+    rgdal,
+    rgeos,
     sp
