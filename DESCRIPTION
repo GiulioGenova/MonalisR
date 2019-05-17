@@ -22,7 +22,6 @@ Imports:
     purrr,
     tibble,
     utils,
-    ggplot2,
     magrittr,
     dplyr,
     stringr,
@@ -30,6 +29,4 @@ Imports:
     gridExtra,
     leaflet,
     geojsonio,
-    rgdal,
-    rgeos,
     sp
